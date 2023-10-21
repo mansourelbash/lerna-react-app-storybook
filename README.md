@@ -38,7 +38,7 @@
 ### Installation
 
 ```bash
-git clone 
+git clone https://github.com/mansourelbash/lerna-react-app-storybook
 cd lerna-react-app-storybook
 yarn
 ```
